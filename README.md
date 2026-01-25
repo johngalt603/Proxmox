@@ -8,7 +8,7 @@ https://community-scripts.github.io/ProxmoxVE/
 https://proxmenux.com/  
 https://github.com/MacRimi/ProxMenux  
 
-**Monitoring**
+**Monitoring**  
 https://github.com/rcourtman/Pulse
 https://uptimekuma.org/  
 
