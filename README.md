@@ -11,6 +11,7 @@ https://github.com/MacRimi/ProxMenux
 **Monitoring**  
 https://github.com/rcourtman/Pulse
 https://uptimekuma.org/  
+https://checkmk.com/  
 
 **Even Number of Nodes - use QDevice for Cluster Quorum**  
 https://pve.proxmox.com/wiki/Cluster_Manager#_corosync_external_vote_support  
