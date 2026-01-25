@@ -9,7 +9,7 @@ https://proxmenux.com/
 https://github.com/MacRimi/ProxMenux  
 
 **Monitoring**  
-https://github.com/rcourtman/Pulse
+https://github.com/rcourtman/Pulse  
 https://uptimekuma.org/  
 https://checkmk.com/  
 
