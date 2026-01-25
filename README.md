@@ -8,7 +8,7 @@ https://community-scripts.github.io/ProxmoxVE/
 https://proxmenux.com/  
 https://github.com/MacRimi/ProxMenux  
 
-**Even Number of Nodes - use QDevice for Cluster Quorum**
+**Even Number of Nodes - use QDevice for Cluster Quorum**  
 https://pve.proxmox.com/wiki/Cluster_Manager#_corosync_external_vote_support
 https://pve.proxmox.com/pve-docs/chapter-pvecm.html#_corosync_external_vote_support  
 
