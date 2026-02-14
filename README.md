@@ -8,6 +8,12 @@ https://community-scripts.github.io/ProxmoxVE/
 https://proxmenux.com/  
 https://github.com/MacRimi/ProxMenux  
 
+**PegaProx**  
+https://github.com/PegaProx/project-pegaprox  
+
+**ProxSave**  
+https://github.com/tis24dev/proxsave  
+
 **Monitoring**  
 https://github.com/rcourtman/Pulse  
 https://uptimekuma.org/  
