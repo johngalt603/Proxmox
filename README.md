@@ -4,6 +4,9 @@
 **Community Scripts**  
 https://community-scripts.github.io/ProxmoxVE/  
 
+**ProxCenter**  
+https://github.com/adminsyspro/proxcenter-ui  
+
 **ProxMenux**  
 https://proxmenux.com/  
 https://github.com/MacRimi/ProxMenux  
