@@ -7,12 +7,15 @@ https://community-scripts.github.io/ProxmoxVE/
 **ProxCenter**  
 https://github.com/adminsyspro/proxcenter-ui  
 
+**PegaProx**  
+https://github.com/PegaProx/project-pegaprox  
+
+**ProxLB**  
+https://github.com/credativ/ProxLB
+
 **ProxMenux**  
 https://proxmenux.com/  
 https://github.com/MacRimi/ProxMenux  
-
-**PegaProx**  
-https://github.com/PegaProx/project-pegaprox  
 
 **ProxSave**  
 https://github.com/tis24dev/proxsave  
