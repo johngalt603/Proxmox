@@ -32,9 +32,9 @@ https://uptimekuma.org/
 https://checkmk.com/  
 
 **Reporting**  
-https://pveviewer.com  
-https://github.com/AungThuMyint/ProxmoxReportGenerator/tree/main  
+https://pveviewer.com   
 https://github.com/Corsinvest/cv4pve-report  
+https://github.com/AungThuMyint/ProxmoxReportGenerator  
 
 **Even Number of Nodes - use QDevice for Cluster Quorum**  
 https://pve.proxmox.com/wiki/Cluster_Manager#_corosync_external_vote_support  
