@@ -31,6 +31,11 @@ https://github.com/rcourtman/Pulse
 https://uptimekuma.org/  
 https://checkmk.com/  
 
+**Reporting**
+https://pveviewer.com  
+https://github.com/AungThuMyint/ProxmoxReportGenerator/tree/main  
+https://github.com/Corsinvest/cv4pve-report  
+
 **Even Number of Nodes - use QDevice for Cluster Quorum**  
 https://pve.proxmox.com/wiki/Cluster_Manager#_corosync_external_vote_support  
 https://pve.proxmox.com/pve-docs/chapter-pvecm.html#_corosync_external_vote_support  
