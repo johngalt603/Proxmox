@@ -1,11 +1,23 @@
 # Proxmox
 **Proxmox Resources &amp; Guides**
 
+**Virtualization HowTo / Brandon Lee**  
+https://www.virtualizationhowto.com/category/proxmox/  
+
+**Awesome Proxmox VE Resources**  
+https://github.com/Corsinvest/awesome-proxmox-ve  
+
+**Mr. PlanB**  
+https://www.mrplanb.com/proxmox  
+
 **VirtIO Drivers**  
 https://github.com/virtio-win/virtio-win-pkg-scripts
 
 **Community Scripts**  
-https://community-scripts.github.io/ProxmoxVE/  
+https://community-scripts.org  
+
+**Terminal UI**  
+https://github.com/devnullvoid/pvetui  
 
 **ProxCenter**  
 https://github.com/adminsyspro/proxcenter-ui  
